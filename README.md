@@ -1,0 +1,2 @@
+# Sawmill-automation-FluidSIM-PLC-Electropneumatic-relay-circuit
+Automation of a sawmill process using FluidSim for development of a pneumatic control system, with both corresponding relay circuit and PLC. The operator chooses the desired length of the cut part, and starts the operation. A stopping cylinder stops the parts at the desired length, then another cylinder lowers the cutter, cuts the part and returns to the starting position. Stopping cylinder retracts and the finished part is taken out of the working space. 
